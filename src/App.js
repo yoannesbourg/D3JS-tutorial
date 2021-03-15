@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import { useEffect, useRef, useState } from 'react';
 import { select } from "d3"
 
